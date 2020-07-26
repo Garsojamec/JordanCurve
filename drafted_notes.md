@@ -64,6 +64,7 @@ The equivalence classes are called the $\bold{components}$ ( or the "connected c
 element of the topology
 ### Closure
 ### Closed Set
+A subset A of a topological space (X,O) is closed if (X,O) - A is open.
 ### Simple Closed Curve
 ### Boundary
 
