@@ -37,8 +37,7 @@ Let R be the set of all dedekind cuts of quotients.
 Set of open sets. (do we need open balls?)
 
 ### Topological Space
-(R,O)
-R is underlying set, O is topology
+(UnderlyingSet,Topology)
 
 ### Cartesian Product
 Set of all possible ordered pairs for two different sets.
@@ -62,10 +61,16 @@ The equivalence classes are called the $\bold{components}$ ( or the "connected c
 
 ### Open Set
 element of the topology
+
 ### Closed Set
-A subset A of a topological space (X,O) is closed if (X,O) - A is open.
+A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (UnderlyingSet,Topology) - Closed is open.
+
 ### Interior
-if u have a subset A of a space (X,O) then the union of all open sets contained in A is the interior.
+if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of all open sets contained in Subset is the interior.
+
+### Closure
+if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all sets containing Subset.
+
 ### Simple Closed Curve
 ### Boundary
 
