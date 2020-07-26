@@ -23,3 +23,4 @@ The equivalence classes are called the $\bold{components}$ ( or the "connected c
 ### JCT
 $\mathbf{X}$
 
+https://mathworld.wolfram.com/JordanCurveTheorem.html
