@@ -62,9 +62,10 @@ The equivalence classes are called the $\bold{components}$ ( or the "connected c
 
 ### Open Set
 element of the topology
-### Closure
 ### Closed Set
 A subset A of a topological space (X,O) is closed if (X,O) - A is open.
+### Interior
+if u have a subset A of a space (X,O) then the union of all open sets contained in A is the interior.
 ### Simple Closed Curve
 ### Boundary
 
