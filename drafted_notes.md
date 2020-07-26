@@ -3,11 +3,13 @@
 The goal of this document is to begin our investigation of understanding wtf the Jordan Curve Theorem ( JCT ) is even talking about!
 
 ## First Definitions
+
 To establish context, we will define the following:
-- Separation
-- Connectedness
-- Components
-- JCT
+
+* Separation
+* Connectedness
+* Components
+* JCT
 
 ### Separation & Connectedness
 Let $X$ be a topological space.
