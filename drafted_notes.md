@@ -47,7 +47,7 @@ Set of all possible ordered pairs for two different sets.
 Subset of cartesian product such that its a function.
 
 ### Continuity
-Go backwards through the function and you get an open ball.
+Go backwards through the function and you get an open set.
 
 ### Separated
 Let $X$ be a topological space.
@@ -59,6 +59,14 @@ The space $X$ is said to be $\bold{connected}$ if there does not exist a separat
 ### Component
 Given $X$, define an equivalence relation on $X$ by setting $x ~ y$ if there is a connected subspace of $X$ containing both $x$ and $y$.
 The equivalence classes are called the $\bold{components}$ ( or the "connected components") of $X$.
+
+### Open Set
+element of the topology
+### Closure
+### Closed Set
+### Simple Closed Curve
+### Boundary
+
 
 ### JCT
 $\mathbf{X}$
