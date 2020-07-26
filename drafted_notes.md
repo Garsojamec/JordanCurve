@@ -72,3 +72,6 @@ element of the topology
 $\mathbf{X}$
 
 https://mathworld.wolfram.com/JordanCurveTheorem.html
+
+###
+I assume for this theorem u have the one part of the line on the inside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls inside of the circle, the union of all open balls is the interior. u have the one part of the line on the outside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls outside of the circle, the union of all open balls is the exterior.
