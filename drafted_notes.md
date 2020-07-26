@@ -10,42 +10,56 @@ To establish context, we will define the following:
 * Connectedness
 * Components
 * JCT
+
 ### Sets
 Sets are things that exist lol.
+
 ### Ordered Pair
 Ordered pair (a,b) is {a,{a,b}}
+
 ### Zahlen
 Zahlen is subsequent subsets of null set.
 {} equals 0
 {{}} 1
 {{{}}} -1
 {{{{}}}} 2
+
 ### Quotients
 Quotients are ordered pairs of integers
 (Top, Bottom) with equivalence relation making equivalent fractions equal
 (2,4) is equal to (-1,-2)
+
 ### Reals
 A cut r is defined to be the set of all quotients that are less than quotient (r,1).
 Let R be the set of all dedekind cuts of quotients.
+
 ### Topology
 Set of open sets. (do we need open balls?)
+
 ### Topological Space
 (R,O)
 R is underlying set, O is topology
+
 ### Cartesian Product
 Set of all possible ordered pairs for two different sets.
+
 ### Function
 Subset of cartesian product such that its a function.
+
 ### Continuity
 Go backwards through the function and you get an open ball.
+
 ### Separated
 Let $X$ be a topological space.
 A $\bold{separation}$ of $X$ is a pair $U,V$ of disjoint nonempty subsets of $X$ whose uninon is $X$.
+
 ### Connected
 The space $X$ is said to be $\bold{connected}$ if there does not exist a separation of $X$.
+
 ### Component
 Given $X$, define an equivalence relation on $X$ by setting $x ~ y$ if there is a connected subspace of $X$ containing both $x$ and $y$.
 The equivalence classes are called the $\bold{components}$ ( or the "connected components") of $X$.
+
 ### JCT
 $\mathbf{X}$
 
