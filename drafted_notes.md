@@ -11,17 +11,26 @@ To establish context, we will define the following:
 * Components
 * JCT
 
-### Q
-Q is ordered pairs of integers
-(Top, Bottom)
-### Real Numbers
+### Zahlen
+Zahlen is subsequent subsets of null set.
+{} equals 0
+{{}} 1
+{{{}}} -1
+{{{{}}}} 2
+### Quotients
+Quotients are ordered pairs of integers
+(Top, Bottom) with equivalence relation making equivalent fractions equal
+(2,4) is equal to (-1,-2)
+### Reals
 I wanna use dedekind cuts.
+A cut for real number 2 is defined to be the set of all 
 Let R be the set of all dedekind cuts of Q.
 ### Topology
 Set of open sets. (do we need open balls?)
 ### Topological Space
 (R,O) R is underlying set, O is topology
 ### Cartesian Product
+### Continuity
 ### Separation & Connectedness
 Let $X$ be a topological space.
 A $\bold{separation}$ of $X$ is a pair $U,V$ of disjoint nonempty subsets of $X$ whose uninon is $X$.
