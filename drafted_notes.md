@@ -46,6 +46,8 @@ Set of all possible ordered pairs for two different sets.
 Subset of cartesian product such that its a function.
 
 ### Continuity
+Let (Domain,TopDom) and (Range,TopRange) be spaces. Continuous is for each open subset OpenOfRange of (Range,TopRange), u take functionInverse(OpenOfRange) and thats open too.
+functionInverse(OpenOfRange) is the set of all points Points of Domain for which function(Points) in OpenOfRange. It is empty if OpenOfRange does not intersect the image set function(Domain) of function.
 Go backwards through the function and you get an open set.
 
 ### Separated
