@@ -71,7 +71,7 @@ Given space (UnderlyingSet,Topology), define an equivalence relation on (Underly
 The equivalence classes are called the components (or the "connected components") of (UnderlyingSet,Topology).
 
 ### Closed Set
-A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (UnderlyingSet,Topology) - Closed is open.
+A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (UnderlyingSet,Topology) without Closed is open.
 
 ### Interior
 if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of all open sets contained in Subset is the interior.
