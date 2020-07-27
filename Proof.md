@@ -2,6 +2,11 @@
 
 Proof of the Theorem
 
+### Jordan Curve Theorem
+https://mathworld.wolfram.com/JordanCurveTheorem.html https://en.wikipedia.org/wiki/Jordan_curve_theorem
+
+Let SimpleClosedCurve be a simple closed curve in Square(UnitCircle). then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Component1) without Component2 AND Boundary equals Closure(Component2) without Component1.
+
 ## First Definitions
 
 Lets define literally everything because thats the way I like to do it. Just skip to the stuff u dont know.
