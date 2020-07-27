@@ -79,6 +79,8 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of 
 ### Closure
 if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all sets containing Subset.
 
+### Square
+
 ### Unit Circle
 UnitCircle is the set of all elements of X cartesian product Y such that square(x) plus square(y) equals 1.
 
