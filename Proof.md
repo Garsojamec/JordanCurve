@@ -10,12 +10,18 @@ Lets define literally everything because thats the way I like to do it. Just ski
 
 ### Sets
 - Sets are things that exist lol.
-- {} is the empty set
+- They contain other sets.
+- My sets can only contain other sets. Nothing else!
+- {} is the empty set or the null set. It has nothing inside of it.
 - {{}} is the set containing the empty set.
 - {{},{{}}} is the set containing the empty set and the set containg the empty set.
+- Sets dont have order
+- Sets cant contain multiple of the same set.
+- {{},{}} is the same as {{}}
+- The sets directly inside of the parent set are called elements or children.
 
 ### Ordered Pair
-- Ordered pair (a,b) is {{a},{a,b}}
+- Ordered pair (Set1,Set2) is defined to be {{Set1},{Set1,Set2}} where Set1 and Set2 are any sets. This is to artifically create order because sets dont have order.
 
 ### Zahlen
 - Zahlen is subsequent subsets of null set.
