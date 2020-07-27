@@ -8,6 +8,9 @@ Lets define literally everything because thats the way I like to do it. Just ski
 
 ### Sets
 Sets are things that exist lol.
+{} is the empty set
+{{}} is the set containing the empty set.
+{{},{{}}} is the set containing the empty set and the set containg the empty set.
 
 ### Ordered Pair
 Ordered pair (a,b) is {a,{a,b}}
