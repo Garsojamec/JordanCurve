@@ -59,8 +59,8 @@ A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty open sub
 The space (UnderlyingSet,Topology) is said to be connected if there does not exist a separation of (UnderlyingSet,Topology).
 
 ### Component
-Given space (UnderlyingSet,Topology), define an equivalence relation on (UnderlyingSet,Topology) by setting $x ~ y$ if there is a connected subspace of $X$ containing both $x$ and $y$.
-The equivalence classes are called the $\bold{components}$ ( or the "connected components") of $X$.
+Given space (UnderlyingSet,Topology), define an equivalence relation on (UnderlyingSet,Topology) by setting Point1 is equal to Point2 if there is a connected subspace of (UnderlyingSet,Topology) containing both Point1 and Point2.
+The equivalence classes are called the components (or the "connected components") of (UnderlyingSet,Topology).
 
 ### Open Set
 element of the topology
