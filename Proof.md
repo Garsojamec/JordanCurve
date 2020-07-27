@@ -94,9 +94,8 @@ If Subset is a subset of (UnderlyingSet,Topology) then
 boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subset)
 
 ### Jordan Curve Theorem
-$\mathbf{X}$
-
 https://mathworld.wolfram.com/JordanCurveTheorem.html
+
 Let SimpleClosedCurve be a simple closed curve in Square(UnitCircle). then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Component1) - Component2 AND Boundary equals Closure(Component2) - Component1. 
 
 ### proving the theorem
