@@ -44,7 +44,7 @@ A Topology is a set of open sets.
 Set of all possible ordered pairs for two different sets.
 
 ### Function
-Subset of cartesian product such that its a function.
+Subset of cartesian product such that for each ordered pair (InsideDomain,InsideRange) inside of the function, each InsideDomain has a unique InsideRange associated with it. It passes the vertical line test.
 
 ### Continuity
 Let (Domain,TopDom) and (Range,TopRange) be spaces. Continuous is for each open subset OpenOfRange of (Range,TopRange), u take functionInverse(OpenOfRange) and thats open too.
