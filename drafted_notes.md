@@ -82,7 +82,8 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is th
 ### Unit Circle
 
 ### Homeomorphism
-
+function: Domain -> Range 
+If function and inverseFunction are both continuous, then function is homeomorphism.
 
 ### Simple Closed Curve
 a space that is homeomorphic to the unit circle.
