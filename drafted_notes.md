@@ -30,11 +30,17 @@ Quotients are ordered pairs of integers
 (2,4) is equal to (-1,-2)
 
 ### Reals
-A cut r is defined to be the set of all quotients that are less than quotient (r,1).
+A dedekind cut r is defined to be the set of all quotients that are less than quotient (r,1).
 Let R be the set of all dedekind cuts of quotients.
 
+### UnderlyingSet
+The UnderlyingSet is any set you want! ;) It is the set you want to work with!
+
+### Open Set
+The open sets are subsets of the UnderlyingSet.
+
 ### Topology
-Set of open sets. (do we need open balls?)
+A Topology is a set of open sets.
 
 ### Topological Space
 (UnderlyingSet,Topology)
