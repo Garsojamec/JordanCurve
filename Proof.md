@@ -53,7 +53,7 @@ Go backwards through the function and you get an open set.
 
 ### Separation
 Let (UnderlyingSet,Topology) be a topological space.
-A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty subsets of UnderlyingSet whose uninon is UnderlyingSet.
+A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty open subsets of UnderlyingSet whose union is UnderlyingSet.
 
 ### Connected
 The space (UnderlyingSet,Topology) is said to be connected if there does not exist a separation of (UnderlyingSet,Topology).
