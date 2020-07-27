@@ -81,7 +81,9 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is th
 
 ### Simple Closed Curve
 ### Boundary
-
+### proving the theorem
+if u have the circle then u have a ball that a piece of the circle falls inside of. that ball maps to a ball in R. This is because the circle is mapped to by R.
+circle: real -> (real,real)
 
 ### JCT
 $\mathbf{X}$
