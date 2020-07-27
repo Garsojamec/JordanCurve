@@ -95,6 +95,7 @@ boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subs
 
 ### Jordan Curve Theorem
 https://mathworld.wolfram.com/JordanCurveTheorem.html
+https://en.wikipedia.org/wiki/Jordan_curve_theorem
 
 Let SimpleClosedCurve be a simple closed curve in Square(UnitCircle). then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Component1) - Component2 AND Boundary equals Closure(Component2) - Component1. 
 
