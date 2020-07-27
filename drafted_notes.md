@@ -82,7 +82,7 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is th
 ### Square
 
 ### Unit Circle
-UnitCircle is the set of all elements of X cartesian product Y such that square(x) plus square(y) equals 1.
+UnitCircle is the set of all elements of RealsHorizontal cartesian product RealsVertical such that square(CutHorizontal) plus square(CutVertical) equals 1. where CutHorizontal is an element of RealsHorizontal and CutVertical is an element of RealsVertical.
 
 ### Homeomorphism
 function: Domain -> Range 
