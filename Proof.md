@@ -80,9 +80,9 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of 
 if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all closed sets containing Subset.
 
 ### Square
-Cut times Cut
-Cut Plus Cut Plus Cut Plus Cut... Plus Cut, Cut Times.
-A Square with Cut as 2 sides.
+- Cut times Cut
+- Cut Plus Cut Plus Cut Plus Cut... Plus Cut, Cut Times.
+- A Square with Cut as 2 sides.
 
 ### Unit Circle
 UnitCircle is the set of all elements of RealsHorizontal cartesian product RealsVertical such that square(CutHorizontal) plus square(CutVertical) equals /-inf,1/ . where CutHorizontal is an element of RealsHorizontal and CutVertical is an element of RealsVertical.
