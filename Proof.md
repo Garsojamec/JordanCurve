@@ -70,9 +70,6 @@ The space (UnderlyingSet,Topology) is said to be connected if there does not exi
 Given space (UnderlyingSet,Topology), define an equivalence relation on (UnderlyingSet,Topology) by setting Point1 is equal to Point2 if there is a connected subspace of (UnderlyingSet,Topology) containing both Point1 and Point2.
 The equivalence classes are called the components (or the "connected components") of (UnderlyingSet,Topology).
 
-### Open Set
-element of the topology
-
 ### Closed Set
 A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (UnderlyingSet,Topology) - Closed is open.
 
