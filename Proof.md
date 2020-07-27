@@ -72,7 +72,7 @@ A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (Un
 if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of all open sets contained in Subset is the interior.
 
 ### Closure
-if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all sets containing Subset.
+if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all closed sets containing Subset.
 
 ### Square
 Cut times Cut
