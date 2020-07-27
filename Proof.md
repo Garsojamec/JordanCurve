@@ -43,10 +43,10 @@ The UnderlyingSet is any set you want! ;) It is the set you want to work with!
 The open sets are subsets of the UnderlyingSet.
 
 ### Topology
-A Topology on an UnderlyingSet is a collection of subsets of UnderlyingSet with 3 properties.
+A Topology on an UnderlyingSet is a set of subsets of UnderlyingSet with 3 properties.
 1. {} and UnderlyingSet are in the Topology
-2. The union of the elements of any subcollection of Topology is in the Topology.
-3. The intersection of the elements of any finite subcollection of Topology is in the Topology.
+2. The union of the elements of any subset of the Topology is in the Topology.
+3. The intersection of the elements of any finite subset of the Topology is in the Topology.
 
 ### Topological Space
 (UnderlyingSet,Topology)
