@@ -9,29 +9,29 @@ Let SimpleClosedCurve be a simple closed curve in Square(UnitCircle). then Simpl
 Lets define literally everything because thats the way I like to do it. Just skip to the stuff u dont know.
 
 ### Sets
-Sets are things that exist lol.
-{} is the empty set
-{{}} is the set containing the empty set.
-{{},{{}}} is the set containing the empty set and the set containg the empty set.
+- Sets are things that exist lol.
+- {} is the empty set
+- {{}} is the set containing the empty set.
+- {{},{{}}} is the set containing the empty set and the set containg the empty set.
 
 ### Ordered Pair
-Ordered pair (a,b) is {{a},{a,b}}
+- Ordered pair (a,b) is {{a},{a,b}}
 
 ### Zahlen
-Zahlen is subsequent subsets of null set.
-{} equals 0
-{{}} 1
-{{{}}} -1
-{{{{}}}} 2
+- Zahlen is subsequent subsets of null set.
+- {} equals 0
+- {{}} 1
+- {{{}}} -1
+- {{{{}}}} 2
 
 ### Quotients
-Quotients are ordered pairs of integers
+- Quotients are ordered pairs of integers
 (Top, Bottom) with equivalence relation making equivalent fractions equal
-(2,4) is equal to (-1,-2)
+- (2,4) is equal to (-1,-2)
 
 ### Reals
-A dedekind cut r or /-inf, r/ is defined to be the set of all quotients that are less than quotient (r,1).
-Let R be the set of all dedekind cuts of quotients.
+- A dedekind cut r or /-inf, r/ is defined to be the set of all quotients that are less than quotient (r,1).
+- Let R be the set of all dedekind cuts of quotients.
 
 ### UnderlyingSet
 The UnderlyingSet is any set you want! ;) It is the set you want to work with!
@@ -55,20 +55,20 @@ Set of all possible ordered pairs for two different sets.
 Subset of cartesian product such that for each ordered pair (InsideDomain,InsideRange) inside of the function, each InsideDomain has a unique InsideRange associated with it. It passes the vertical line test.
 
 ### Continuity
-Let (Domain,TopDom) and (Range,TopRange) be spaces. Continuous is for each open subset OpenOfRange of (Range,TopRange), u take functionInverse(OpenOfRange) and thats open too.
-functionInverse(OpenOfRange) is the set of all points Points of Domain for which function(Points) in OpenOfRange. It is empty if OpenOfRange does not intersect the image set function(Domain) of function.
-Go backwards through the function and you get an open set.
+- Let (Domain,TopDom) and (Range,TopRange) be spaces. Continuous is for each open subset OpenOfRange of (Range,TopRange), u take functionInverse(OpenOfRange) and thats open too.
+- functionInverse(OpenOfRange) is the set of all points Points of Domain for which function(Points) in OpenOfRange. It is empty if OpenOfRange does not intersect the image set function(Domain) of function.
+- Go backwards through the function and you get an open set.
 
 ### Separation
-Let (UnderlyingSet,Topology) be a topological space.
-A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty open subsets of UnderlyingSet whose union is UnderlyingSet.
+- Let (UnderlyingSet,Topology) be a topological space.
+- A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty open subsets of UnderlyingSet whose union is UnderlyingSet.
 
 ### Connected
 The space (UnderlyingSet,Topology) is said to be connected if there does not exist a separation of (UnderlyingSet,Topology).
 
 ### Component
-Given space (UnderlyingSet,Topology), define an equivalence relation on (UnderlyingSet,Topology) by setting Point1 is equal to Point2 if there is a connected subspace of (UnderlyingSet,Topology) containing both Point1 and Point2.
-The equivalence classes are called the components (or the "connected components") of (UnderlyingSet,Topology).
+- Given space (UnderlyingSet,Topology), define an equivalence relation on (UnderlyingSet,Topology) by setting Point1 is equal to Point2 if there is a connected subspace of (UnderlyingSet,Topology) containing both Point1 and Point2.
+- The equivalence classes are called the components (or the "connected components") of (UnderlyingSet,Topology).
 
 ### Closed Set
 A subset Closed of a topological space (UnderlyingSet,Topology) is closed if (UnderlyingSet,Topology) without Closed is open.
@@ -88,15 +88,15 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is th
 UnitCircle is the set of all elements of RealsHorizontal cartesian product RealsVertical such that square(CutHorizontal) plus square(CutVertical) equals /-inf,1/ . where CutHorizontal is an element of RealsHorizontal and CutVertical is an element of RealsVertical.
 
 ### Homeomorphism
-function: Domain -> Range 
-If function and inverseFunction are both continuous, then function is homeomorphism.
+- function: Domain -> Range 
+- If function and inverseFunction are both continuous, then function is homeomorphism.
 
 ### Simple Closed Curve
 a space that is homeomorphic to the unit circle.
 
 ### Boundary
-If Subset is a subset of (UnderlyingSet,Topology) then
-boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subset)
+- If Subset is a subset of (UnderlyingSet,Topology) then
+- boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subset)
 
 ## Jordan Curve Theorem
 https://mathworld.wolfram.com/JordanCurveTheorem.html
