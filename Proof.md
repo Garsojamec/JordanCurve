@@ -102,7 +102,7 @@ boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subs
 https://mathworld.wolfram.com/JordanCurveTheorem.html
 https://en.wikipedia.org/wiki/Jordan_curve_theorem
 
-Let SimpleClosedCurve be a simple closed curve in Square(UnitCircle). then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Component1) without Component2 AND Boundary equals Closure(Component2) without Component1. 
+Let SimpleClosedCurve be a simple closed curve in UnitCircle CartesianProduct UnitCircle. then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Component1) without Component2 AND Boundary equals Closure(Component2) without Component1. 
 
 ### Proof attempt 1
 The biggest ball that can fit inside of the circle is 1 ball. But you can keep making the ball bigger and bigger... U are allowed infinite balls outside the circle that u can use to shade in outside of the circle.
