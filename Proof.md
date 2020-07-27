@@ -51,12 +51,12 @@ Let (Domain,TopDom) and (Range,TopRange) be spaces. Continuous is for each open 
 functionInverse(OpenOfRange) is the set of all points Points of Domain for which function(Points) in OpenOfRange. It is empty if OpenOfRange does not intersect the image set function(Domain) of function.
 Go backwards through the function and you get an open set.
 
-### Separated
+### Separation
 Let (UnderlyingSet,Topology) be a topological space.
-A separation of (UnderlyingSet,Topology) is a pair $U,V$ of disjoint nonempty subsets of $X$ whose uninon is $X$.
+A separation of (UnderlyingSet,Topology) is a pair of disjoint nonempty subsets of UnderlyingSet whose uninon is UnderlyingSet.
 
 ### Connected
-The space $X$ is said to be $\bold{connected}$ if there does not exist a separation of $X$.
+The space (UnderlyingSet,Topology) is said to be connected if there does not exist a separation of (UnderlyingSet,Topology).
 
 ### Component
 Given $X$, define an equivalence relation on $X$ by setting $x ~ y$ if there is a connected subspace of $X$ containing both $x$ and $y$.
