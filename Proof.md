@@ -96,7 +96,7 @@ a space that is homeomorphic to the unit circle.
 $\mathbf{X}$
 
 https://mathworld.wolfram.com/JordanCurveTheorem.html
-Let SimpleClosedCurve be a simple closed curve in Square(S). then SimpleClosedCurve separates Square(UnitCircle) into two components W1 and W2. Each of the sets W1 and W2 has Boundary as its boundary; that is, Boundary equals Complement(Wi) - Wi for i equals 1,2. 
+Let SimpleClosedCurve be a simple closed curve in Square(S). then SimpleClosedCurve separates Square(UnitCircle) into two components Component1 and Component2. Each of the sets Component1 and Component2 has Boundary as its boundary; that is, Boundary equals Closure(Wi) - Wi for i equals 1,2. 
 
 ### proving the theorem
 From any space you can just go to the circle lol.
