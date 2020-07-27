@@ -19,10 +19,11 @@ Lets define literally everything because thats the way I like to do it. Just ski
 
 ### Zahlen
 - Zahlen is subsequent subsets of null set.
-- {} equals 0
-- {{}} 1
-- {{{}}} -1
-- {{{{}}}} 2
+- {} is 0
+- {{}} is 1
+- {{{}}} is -1
+- {{{{}}}} is 2
+- and so on...
 
 ### Quotients
 - Quotients are ordered pairs of integers
