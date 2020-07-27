@@ -101,10 +101,11 @@ If you have a random space, the space has balls associated with it that are the 
 if u have the circle then u have a ball that a piece of the circle falls inside of. that ball maps to a ball in R. This is because the circle is mapped to by R.
 circle: real -> (real,real)
 
-### JCT
+### Jordan Curve TheoremCT
 $\mathbf{X}$
 
 https://mathworld.wolfram.com/JordanCurveTheorem.html
+Let SimpleClosedCurve be a simple closed curve in Square(S). then SimpleClosedCurve separates Square(S) into two components W1 and W2. Each of the sets W1 and W2 has C as its boundary; that is, C equals Complement(Wi) - Wi for i equals 1,2. 
 
 ###
 I assume for this theorem u have the one part of the line on the inside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls inside of the circle, the union of all open balls is the interior aka internal balls. u have the one part of the line on the outside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls outside of the circle, the union of all open balls is the exterior aka external balls.
