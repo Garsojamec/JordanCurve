@@ -90,7 +90,8 @@ If function and inverseFunction are both continuous, then function is homeomorph
 a space that is homeomorphic to the unit circle.
 
 ### Boundary
-
+If Subset is a subset of (UnderlyingSet,Topology) then
+boundary(Subset) is Closure(Subset) Intersect Closure(UnderlyingSet Without Subset)
 
 ### Jordan Curve Theorem
 $\mathbf{X}$
