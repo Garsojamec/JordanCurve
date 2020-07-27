@@ -1,15 +1,10 @@
 # Drafted Notes
 
-The goal of this document is to begin our investigation of understanding wtf the Jordan Curve Theorem ( JCT ) is even talking about!
+Proof of the Theorem
 
 ## First Definitions
 
-To establish context, we will define the following:
-
-* Separation
-* Connectedness
-* Components
-* JCT
+Lets define literally everything because thats the way I like to do it. Just skip to the stuff u dont know.
 
 ### Sets
 Sets are things that exist lol.
