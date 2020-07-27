@@ -105,7 +105,7 @@ circle: real -> (real,real)
 $\mathbf{X}$
 
 https://mathworld.wolfram.com/JordanCurveTheorem.html
-Let SimpleClosedCurve be a simple closed curve in Square(S). then SimpleClosedCurve separates Square(S) into two components W1 and W2. Each of the sets W1 and W2 has C as its boundary; that is, C equals Complement(Wi) - Wi for i equals 1,2. 
+Let SimpleClosedCurve be a simple closed curve in Square(S). then SimpleClosedCurve separates Square(UnitCircle) into two components W1 and W2. Each of the sets W1 and W2 has Boundary as its boundary; that is, Boundary equals Complement(Wi) - Wi for i equals 1,2. 
 
 ###
 I assume for this theorem u have the one part of the line on the inside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls inside of the circle, the union of all open balls is the interior aka internal balls. u have the one part of the line on the outside of the circle, u take the open ball that the part of the line falls inside of, and then take the union of all open balls outside of the circle, the union of all open balls is the exterior aka external balls.
