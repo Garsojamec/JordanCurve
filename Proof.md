@@ -36,14 +36,14 @@ Let R be the set of all dedekind cuts of quotients.
 ### UnderlyingSet
 The UnderlyingSet is any set you want! ;) It is the set you want to work with!
 
-### Open Set
-The open sets are subsets of the UnderlyingSet.
-
 ### Topology
 A Topology on an UnderlyingSet is a set of subsets of UnderlyingSet with 3 properties.
 1. {} and UnderlyingSet are in the Topology
 2. The union of the elements of any subset of the Topology is in the Topology.
 3. The intersection of the elements of any finite subset of the Topology is in the Topology.
+
+### Open Set
+The open sets are elements of the Topology.
 
 ### Topological Space
 (UnderlyingSet,Topology)
