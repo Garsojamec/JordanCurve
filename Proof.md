@@ -18,7 +18,7 @@ Sets are things that exist lol.
 {{},{{}}} is the set containing the empty set and the set containg the empty set.
 
 ### Ordered Pair
-Ordered pair (a,b) is {a,{a,b}}
+Ordered pair (a,b) is {{a},{a,b}}
 
 ### Zahlen
 Zahlen is subsequent subsets of null set.
