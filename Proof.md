@@ -52,8 +52,8 @@ functionInverse(OpenOfRange) is the set of all points Points of Domain for which
 Go backwards through the function and you get an open set.
 
 ### Separated
-Let $X$ be a topological space.
-A $\bold{separation}$ of $X$ is a pair $U,V$ of disjoint nonempty subsets of $X$ whose uninon is $X$.
+Let (UnderlyingSet,Topology) be a topological space.
+A separation of (UnderlyingSet,Topology) is a pair $U,V$ of disjoint nonempty subsets of $X$ whose uninon is $X$.
 
 ### Connected
 The space $X$ is said to be $\bold{connected}$ if there does not exist a separation of $X$.
