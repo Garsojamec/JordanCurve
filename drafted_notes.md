@@ -80,6 +80,7 @@ if u have a subset Subset of a space (UnderlyingSet,Topology) then the union of 
 if u have a subset Subset of a space (UnderlyingSet,Topology) then Closure is the intersection of all sets containing Subset.
 
 ### Simple Closed Curve
+a space that is homeomorphic to the unit circle.
 ### Boundary
 ### proving the theorem
 if u have the circle then u have a ball that a piece of the circle falls inside of. that ball maps to a ball in R. This is because the circle is mapped to by R.
